@@ -1,0 +1,16 @@
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.exe
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.deps.json
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.runtimeconfig.json
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.runtimeconfig.dev.json
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.dll
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\ref\c-sharp-demo.dll
+C:\Users\tom\src\c-sharp-demo\bin\Debug\net5.0\c-sharp-demo.pdb
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.csproj.AssemblyReference.cache
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.AssemblyInfoInputs.cache
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.AssemblyInfo.cs
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.csproj.CoreCompileInputs.cache
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.dll
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\ref\c-sharp-demo.dll
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.pdb
+C:\Users\tom\src\c-sharp-demo\obj\Debug\net5.0\c-sharp-demo.genruntimeconfig.cache
