@@ -87,7 +87,7 @@ namespace c_sharp_demo
                 rightStr = Right.ToString();
             }
 
-            return String.Concat("Tree(", Node, ", ", leftStr, ", ", rightStr, ")");
+            return "Tree(" + Node + ", " + leftStr + ", " + rightStr + ")";
         }
 
         public void PrettyPrint(int depth = 0)
@@ -124,26 +124,22 @@ namespace c_sharp_demo
             Console.WriteLine(list.Length());
             Console.WriteLine(list);
             Console.WriteLine(list.Pop());
-            Console.WriteLine("Here's our tree:");
             TreeOfInts tree = new TreeOfInts(
-                10,
+                50,
                 new TreeOfInts(
-                    5,
-                    new TreeOfInts(
-                        1,
-                        new TreeOfInts(0),
-                        new TreeOfInts(
-                            3,
-                            new TreeOfInts(2)
-                        )
-                    ),
-                    new TreeOfInts(
-                        8,
-                        new TreeOfInts(7),
-                        new TreeOfInts(9)
-                    )
+                    25,
+                    new TreeOfInts(10),
+                    new TreeOfInts(15)
+                ),
+                new TreeOfInts(
+                    35,
+                    new TreeOfInts(20),
+                    new TreeOfInts(25)
                 )
             );
+            Console.WriteLine("Here's our tree:");
+            Console.WriteLine(tree);
+            Console.WriteLine("Here's our tree printed more nicely:");
             tree.PrettyPrint();
             Console.WriteLine("And here's our tree rotated right once:");
             tree.RotateRight().PrettyPrint();
