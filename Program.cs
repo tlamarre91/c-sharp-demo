@@ -68,6 +68,12 @@ namespace c_sharp_demo
             return new TreeOfInts(Left.Node, Left.Left, newRight);
         }
 
+        public TreeOfInts RotateLeft()
+        {
+            TreeOfInts newLeft = new TreeOfInts(Node, Left, Right.Left);
+            return new TreeOfInts(Right.Node, newLeft, Right.Right);
+        }
+
         public override string ToString()
         {
             String leftStr = "(empty)";
